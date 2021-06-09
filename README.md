@@ -1,3 +1,3 @@
 # projectj
 
-An additional update to the README.md.
+An additional update to the README. The typo has been fixed.
